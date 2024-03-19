@@ -1,0 +1,14 @@
+/home/jj/svn/hd2018/Andrefs/Linguakit/lk/sentiment/pt/lex_pt
+
+
+https://www.kaggle.com/datasets/augustop/portuguese-tweets-for-sentiment-analysis
+
+
+120458310 Mar  5 11:23 NoThemeTweets-class-from-emoji.tab
+111484549 Oct 11  2019 NoThemeTweets.csv
+   145440 Mar  5 09:34 opcovidbr.csv
+  1845398 Sep 26  2019 Tweets_Mg.csv
+  1110156 May 17  2021 tw_pt.csv
+
+Sentilex-pt
+  https://rdrr.io/cran/lexiconPT/

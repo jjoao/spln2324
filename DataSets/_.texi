@@ -1,0 +1,62 @@
+\input texinfo
+@documentencoding UTF-8
+
+@ifnottex
+@paragraphindent 0
+@end ifnottex
+@node Top
+@top Top
+
+@menu
+* análise de sentimento com sentilex PT::
+* análise com base no::
+* limpeza e melhoramentos e normalizações de datasets::
+* ir buscar twitters a partir de twitter-id::
+* usando os lexicos do Linguakit::
+* anotar positivos negativos negadores quantificadores::
+* calcular sentimento de unidade de texto::
+* calibrar classificadores de sentimentos::
+* template-multifile::
+@end menu
+
+@node análise de sentimento com sentilex PT
+@chapter análise de sentimento com sentilex PT
+@anchor{#análise-de-sentimento-com-sentilex-pt}
+
+@node análise com base no
+@chapter análise com base no
+@anchor{#análise-com-base-no}
+
+@node limpeza e melhoramentos e normalizações de datasets
+@chapter limpeza e melhoramentos e normalizações de datasets
+@anchor{#limpeza-e-melhoramentos-e-normalizações-de-datasets}
+
+@node ir buscar twitters a partir de twitter-id
+@chapter ir buscar twitters a partir de twitter-id
+@anchor{#ir-buscar-twitters-a-partir-de-twitter-id}
+
+@node usando os lexicos do Linguakit
+@chapter usando os lexicos do Linguakit
+@anchor{#usando-os-lexicos-do-linguakit}
+
+@node anotar positivos negativos negadores quantificadores
+@chapter anotar positivos, negativos, negadores, quantificadores
+@anchor{#anotar-positivos-negativos-negadores-quantificadores}
+
+@node calcular sentimento de unidade de texto
+@chapter calcular sentimento de unidade de texto
+@anchor{#calcular-sentimento-de-unidade-de-texto}
+
+@node calibrar classificadores de sentimentos
+@chapter calibrar classificadores de sentimentos
+@anchor{#calibrar-classificadores-de-sentimentos}
+
+@node template-multifile
+@chapter template-multifile
+@anchor{#template-multifile}
+@itemize
+@item
+jinja2
+@end itemize
+
+@bye
